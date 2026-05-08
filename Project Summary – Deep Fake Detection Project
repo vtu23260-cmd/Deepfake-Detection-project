@@ -1,0 +1,14 @@
+# Project Summary – Deep Fake Detection Project
+
+The Deep Fake Detection Project is an AI-based cybersecurity application developed to identify manipulated images and videos created using deepfake technology. The project focuses on reducing cybercrimes, misinformation, identity theft, and reputational damage caused by AI-generated fake media. The system uses a hybrid deep learning architecture that combines Convolutional Neural Networks (CNN) and Long Short-Term Memory (LSTM) networks to analyze both spatial facial features and temporal video frame patterns for accurate detection. ([GitHub][1])
+
+The CNN model extracts important facial textures, edges, and visual artifacts from images and video frames, while the LSTM network studies sequential frame behavior to identify inconsistencies commonly found in deepfake videos. The framework also integrates Explainable AI (XAI) techniques to improve transparency by clearly explaining why a media file is classified as real or fake. ([GitHub][2])
+
+The project is designed as a web-based application where users can upload images or videos and receive deepfake detection results with prediction confidence. The system aims to provide a scalable, user-friendly, and reliable solution for media verification that can support cybersecurity systems, digital forensics, and online content validation. ([GitHub][3])
+
+You can view the repository here:
+[Deep Fake Detection Project GitHub Repository](https://github.com/vtu22710-oi/Deep-Fake-detetction-Project?utm_source=chatgpt.com)
+
+[1]: https://github.com/abhijithjadhav/Deepfake_detection_using_deep_learning?utm_source=chatgpt.com "Deepfake detection using Deep Learning (ResNext and ..."
+[2]: https://github.com/vikrampande7/deepfake-detection?utm_source=chatgpt.com "vikrampande7/deepfake-detection: Course Project of ECE ..."
+[3]: https://github.com/reviverkid/DeepFakeDetectionSystem?utm_source=chatgpt.com "Deepfake Detection System"
